@@ -13,7 +13,7 @@ div{
  }
 
  /* CHILD SELECTOR */
-  div > p {
+  span > p {
     color: white;
     background-color: black;
   }
